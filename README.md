@@ -2,7 +2,7 @@
 
 An app for storing School Timetables and Notes. 
 
-Flutter Packages:
+<strong>Flutter Packages:</strong>
 <br>
   fluttertoast
   <br>
@@ -15,7 +15,7 @@ Flutter Packages:
   flutter_colorpicker
   <br>
 
-Tested:
+<strong>Tested:</strong>
 <br>
     Androind Only without any bug
     <br>
