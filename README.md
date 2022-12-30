@@ -1,4 +1,4 @@
-My School Mobile App
+<H3>My School Mobile App</H3>
 
 An app for storing School Timetables and Notes. 
 
